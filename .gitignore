@@ -1,0 +1,9 @@
+*.zip
+.DS_Store
+IDEWorkspaceChecks.plist
+xcschememanagement.plist
+UserInterfaceState.xcuserstate
+Breakpoints_v2.xcbkptlist
+IDEFindNavigatorScopes.plist
+Pods/
+*.xcworkspacedata
